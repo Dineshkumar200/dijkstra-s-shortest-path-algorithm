@@ -24,7 +24,7 @@ Implement the search algorithm by passing any node and f(node) to find a Best ro
 Display the route sequence.
 
 
-## ROUTE MAP
+## <br/><br/><br/><br/><br/><br/><br/>ROUTE MAP
 
 ![ai1](https://user-images.githubusercontent.com/75235789/167634807-582e24c0-e00e-40a1-8770-6f89fdb5eed2.png)
 
@@ -254,7 +254,7 @@ print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 
 ```
 
-## OUTPUT:
+## <br/><br/><br/><br/><br/><br/>OUTPUT:
 ![ukj](https://user-images.githubusercontent.com/75235427/167633712-1b5e4de7-8380-4604-a333-8a6ba361f70b.jpg)
 
 
